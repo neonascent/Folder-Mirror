@@ -1,0 +1,9 @@
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\bin\Debug\MonitorFolderActivity.exe
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\bin\Debug\MonitorFolderActivity.pdb
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\ResolveAssemblyReference.cache
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\MonitorFolderActivity.frmMain.resources
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\MonitorFolderActivity.Properties.Resources.resources
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\ResGen.read.1.tlog
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\ResGen.write.1.tlog
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\MonitorFolderActivity.exe
+F:\Archive\Experimentation\Tracking\Crysis 2\DirectoryWatcher\MonitorFolderActivity\obj\Debug\MonitorFolderActivity.pdb
